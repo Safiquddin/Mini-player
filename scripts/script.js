@@ -84,8 +84,8 @@ new Vue({
         {
           name: "Rag'n'Bone Man",
           artist: "Human",
-          cover: "img/9.jpg",
-          source: "mp3/9.mp3",
+          cover: "https://raw.githubusercontent.com/Safiquddin/Mini-player/master/img/9.jpg",
+          source: "https://raw.githubusercontent.com/Safiquddin/Mini-player/master/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
